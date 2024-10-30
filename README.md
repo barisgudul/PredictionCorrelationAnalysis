@@ -26,10 +26,7 @@ The `msleep.csv` dataset contains information about various animal species, incl
 - **brainwt**: Brain weight of the animal
 - **awake**: Time awake (in hours)
 - **sleep_rem**: REM sleep time (in hours)
-- **vore_carni**: Carnivorous animal (binary feature)
-- **vore_herbi**: Herbivorous animal (binary feature)
-- **vore_omni**: Omnivorous animal (binary feature)
-- **vore_insecti**: Insectivorous animal (binary feature)
+- **sleep_cycle**: Duration of one sleep cycle (in hours).
 
 The **target variable** is `sleep_total`, which represents the total sleep time (in hours).
 
